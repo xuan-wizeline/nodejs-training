@@ -1,8 +1,8 @@
 {
-  "name": "nodejs-training",
+  "name": "xuanusm-nodejs-training",
   "version": "1.0.1",
   "description": "This repo is for storing exercises related to an internal NodeJS course",
-  "main": "index.js",
+  "main": "modules/country.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
