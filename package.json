@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/xuan-wizeline/nodejs-training#readme",
   "dependencies": {
-    "cryptr": "^4.0.0"
+    "cryptr": "^4.0.0",
+    "jsonfile": "^4.0.0",
+    "sleep": "^5.1.1"
   }
 }
