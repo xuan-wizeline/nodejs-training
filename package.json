@@ -1,6 +1,6 @@
 {
   "name": "nodejs-training",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This repo is for storing exercises related to an internal NodeJS course",
   "main": "index.js",
   "scripts": {
